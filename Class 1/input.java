@@ -9,6 +9,6 @@ public class input {
         System.out.println(num);
         float price = sc.nextFloat();
         System.out.println(price);
-        
+              
     }
 }
