@@ -1,3 +1,3 @@
-# This is JAVA DSA Folder
+# This is JAVA DSA Repository
 ## it shows my consistency
 ### Something for myself
